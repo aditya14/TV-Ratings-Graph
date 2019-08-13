@@ -5,3 +5,5 @@
 * Search for a series and get a graph of IMDb episode ratings,
 * Select an episode to get the ratings breakdown for it,
 * Search for a second series and get a graph comparing the two series.
+
+Python package used for getting the IMDb data: [IMDbPy](http://imdbpy.github.io)
